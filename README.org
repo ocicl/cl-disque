@@ -1,0 +1,10 @@
+* cl-disque
+
+A Disque client for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/CodyReichert/cl-disque.git   |
+| commit  | 15d214d  |
+| systems | cl-disque |
+|---------+-------------------------------------------|
+
